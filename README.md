@@ -2,6 +2,15 @@
 
 dataset dari kaggle https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025
 
+---
+
+## 📈 Preview
+<p align="center">
+  <img src="https://github.com/yazidabd/Amazon-Sales-Dasboard/blob/main/assets/amazon-sales-dasb.png" width="750">
+</p>
+
+---
+
 ## 📊 Ringkasan Proyek
 Dashboard ini menganalisis kinerja penjualan Amazon selama periode **2 Februari – 2 April 2025**, dengan fokus pada *revenue*, *volume transaksi*, dan *efisiensi operasional*.  
 Tujuan utama dashboard ini adalah membantu tim bisnis dalam:
